@@ -1,4 +1,4 @@
 # Requirements for OctoFit Tracker backend
 # Based on MonaFit Tracker, likely using Django and REST framework
-Django>=3.2
-djangorestframework>=3.12
+Django==4.1
+djangorestframework==3.12
